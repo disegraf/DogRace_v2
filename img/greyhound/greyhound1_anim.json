@@ -1,0 +1,112 @@
+{
+    "anims": [
+        {
+            "key": "run1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "greyhound1",
+                    "frame": "0001"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0002"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0003"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0004"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0005"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0006"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0007"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0008"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0009"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0010"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0011"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0012"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0013"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0014"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0015"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0016"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0017"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0018"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0019"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0020"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0021"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0022"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0023"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0024"
+                },
+                {
+                    "key": "greyhound1",
+                    "frame": "0025"
+                }
+            ]
+        }
+    ]
+}
